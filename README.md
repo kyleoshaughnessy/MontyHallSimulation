@@ -2,6 +2,7 @@
 ```
 mkdir build
 cd build
-cmake ../monty
+cmake ..
 make
+./monty
 ```
